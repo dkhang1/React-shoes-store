@@ -1,0 +1,10 @@
+@import "./base/base";
+@import "./variable/variable";
+//layout
+@import "./layout/header";
+@import "./layout/footer";
+@import "./layout/navbar";
+// page
+@import "./pages/index";
+@import "./pages/detail";
+@import "./pages/register";
